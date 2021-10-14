@@ -1,8 +1,12 @@
-
-
-
-
- Describe los protocolos que existen en internet, en específico HTTP y HTML     URLs Direcciones IP DNS (Domain Name System) Nombres de dominio Principales organismos de Internet Organismos a nivel global 
+1 En tus palabras ¿Que es el internet?
+ R= una red de computadoras conectadas como una telaraña
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+ R= El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos.
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+ R= las direcciones IP es un conjunto de reglas para la comunicación a través de Internet. y la DNS es el directorio telefonico de Internet.
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañia a tu celular.
+ R= el ancho de banda de Internet para enviar canciones a millones de usuarios finales, depende en gran medida de una red peer-to-peer (P2P) para transmitir audio
+Describe los protocolos que existen en internet, en específico HTTP y HTML     URLs Direcciones IP DNS (Domain Name System) Nombres de dominio Principales organismos de Internet Organismos a nivel global 
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas   Si se utiliza correctamente, el cifrado de extremo a extremo puede ayudar a proteger el contenido de sus mensajes, texto e incluso archivos para que nadie los entienda, excepto sus destinatarios previstos. También se puede utilizar para probar que un mensaje proviene de una persona en particular y no ha sido alterado.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.  Estafa. Este tipo de delito se comete a través del robo de identidad. 
 Suplantación de identidad. Relacionado con lo anterior, la suplantación de identidad sucede cuando la estafa tiene éxito y el criminal obtiene acceso a la información personal. estos son tipos de delitos donde los crminales pueden meterte un virus o algo asi y solo es intentar evadir 
